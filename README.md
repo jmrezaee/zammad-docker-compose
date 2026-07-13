@@ -1,3 +1,10 @@
+## About this fork
+
+This is a fork of [zammad/zammad-docker-compose](https://github.com/zammad/zammad-docker-compose) that
+defaults `IMAGE_REPO` to `ghcr.io/jmrezaee/zammad`, our customized Zammad image (Persian/RTL font support),
+built from [jmrezaee/zammad](https://github.com/jmrezaee/zammad). See `.env.dist` for details and how to
+switch back to the upstream image.
+
 # Welcome to Zammad
 
 Are you juggling countless customer inquiries across multiple channels?
